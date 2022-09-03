@@ -1,6 +1,6 @@
 Program.cs
 ====================
-A very simple way of minifying the "noice" often created when setting up the scermonial code of a .Net 5+ project.
+A very simple way of minifying the "noise" often created when setting up the scermonial code of a .Net 5+ project.
 
 
 Recommendation:
